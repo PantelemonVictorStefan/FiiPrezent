@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiPrezent.Tests", "FiiPrezent.Tests\FiiPrezent.Tests.csproj", "{52E5166E-3D2D-4261-BFB6-53B124AEBA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiPrezent", "FiiPrezent\FiiPrezent.csproj", "{20F26D94-73B8-44FF-91E1-BD42E5A05EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E5166E-3D2D-4261-BFB6-53B124AEBA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E5166E-3D2D-4261-BFB6-53B124AEBA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E5166E-3D2D-4261-BFB6-53B124AEBA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E5166E-3D2D-4261-BFB6-53B124AEBA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F26D94-73B8-44FF-91E1-BD42E5A05EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F26D94-73B8-44FF-91E1-BD42E5A05EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F26D94-73B8-44FF-91E1-BD42E5A05EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F26D94-73B8-44FF-91E1-BD42E5A05EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

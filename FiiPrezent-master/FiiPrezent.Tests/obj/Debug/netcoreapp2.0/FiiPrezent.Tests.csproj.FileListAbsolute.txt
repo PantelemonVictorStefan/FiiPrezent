@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.Tests.deps.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.Tests.runtimeconfig.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.Tests.runtimeconfig.dev.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.Tests.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.Tests.pdb
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\bin\Debug\netcoreapp2.0\FiiPrezent.pdb
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.AssemblyInfo.cs
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent.Tests\obj\Debug\netcoreapp2.0\FiiPrezent.Tests.pdb

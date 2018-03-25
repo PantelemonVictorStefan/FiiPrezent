@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\bin\Debug\netcoreapp2.0\FiiPrezent.deps.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\bin\Debug\netcoreapp2.0\FiiPrezent.runtimeconfig.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\bin\Debug\netcoreapp2.0\FiiPrezent.runtimeconfig.dev.json
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\bin\Debug\netcoreapp2.0\FiiPrezent.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\bin\Debug\netcoreapp2.0\FiiPrezent.pdb
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.AssemblyInfo.cs
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.dll
+C:\Users\student\Desktop\FiiPrezent-master\FiiPrezent\obj\Debug\netcoreapp2.0\FiiPrezent.pdb

@@ -1,0 +1,17 @@
+﻿@using FiiPrezent.Models
+@model EventViewModel
+
+@{
+    ViewBag.Title = "Event";
+    Layout = "_Layout";
+}
+
+<h2>@Model.Name</h2>
+<span>@Model.Description</span>
+
+<ol>
+    @foreach (var p in @Model.Participants)
+    {
+        <li>@p</li>
+    }
+</ol>
